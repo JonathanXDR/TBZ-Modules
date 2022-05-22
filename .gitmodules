@@ -1,0 +1,6 @@
+[submodule "M231-Portfolio"]
+	path = M231-Portfolio
+	url = https://github.com/JonathanXDR/M231-Portfolio
+[submodule "M293-Portfolio"]
+	path = M293-Portfolio
+	url = https://github.com/JonathanXDR/M293-Portfolio
