@@ -13,3 +13,6 @@
 [submodule "M165-Portfolio"]
 	path = M165-Portfolio
 	url = https://github.com/JonathanXDR/M165-Portfolio
+[submodule "M320-Portfolio"]
+	path = M320-Portfolio
+	url = https://github.com/JonathanXDR/M320-Portfolio
