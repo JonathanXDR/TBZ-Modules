@@ -28,3 +28,6 @@
 [submodule "M431-Portfolio"]
 	path = M431-Portfolio
 	url = https://github.com/JonathanXDR/M431-Portfolio
+[submodule "M450-Portfolio"]
+	path = M450-Portfolio
+	url = https://github.com/JonathanXDR/M450-Portfolio
